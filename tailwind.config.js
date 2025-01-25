@@ -13,9 +13,6 @@ module.exports = {
         // sans: ['var(--font-sans)'],
         // mono: ['var(--font-mono)'],
       },
-      borderColor: {
-        DEFAULT: '#d9d8d6', // Set default border color (e.g., Red)
-      },
     },
   },
   darkMode: 'class',

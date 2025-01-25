@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: 'Trivago.com',
+  name: 'XYZ.com',
   description:
-    'Find your perfect stay with ease, tailored to your preferences and budget.',
+    'XYZ description',
   // navItems: [
   //   {
   //     label: "Home",

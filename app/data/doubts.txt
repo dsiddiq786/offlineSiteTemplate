@@ -1,0 +1,407 @@
+skipped
+
+location
+sleeps....
+collect stamps
+redeem reward nights
+sign in for extra savings
+propertyType
+
+one propertyItem json, lets call this item
+  {
+    "lowestPrice": {
+      "siteTitle": "Hotels.com•Featured",
+      "price": 431,
+      "room": {
+        "roomTitle": "Deluxe Room (Ocean)",
+        "roomProperties": []
+      }
+    },
+    "title": "Jumeirah Beach Hotel Dubai",
+    "propertyType": "Resort",
+    "rating": 9,
+    "totalRatings": 32755,
+    "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_534,q_40,w_800/hotelier-images/e0/0e/87d734764df34c0e35df38c30926a9b8c26e980cc06794d9ca698ebabee6.jpeg",
+    "extraDetails": {
+      "info": {
+        "propertyDetails": [
+          {
+            "tag": "Style",
+            "title": "Wave-Like Architecture",
+            "description": "The hotel's distinctive sail-shaped silhouette is a standout feature on Dubai's coastline, resembling a breaking wave."
+          },
+          {
+            "tag": "Facilities and amenities",
+            "title": "Five Swimming Pools",
+            "description": "Relax and refresh in one of the five swimming pools, perfect for a refreshing dip."
+          },
+          {
+            "tag": "Activities",
+            "title": "Private Beach and Waterpark Access",
+            "description": "Enjoy a private beach and complimentary unlimited access to Wild Wadi Waterpark™."
+          },
+          {
+            "tag": "Wellness",
+            "title": "Relaxing Spa Oasis",
+            "description": "Unwind and rejuvenate at the Talise Spa, offering a range of holistic treatments and wellness therapies."
+          },
+          {
+            "tag": "Style",
+            "title": "Landscaped Gardens",
+            "description": "Relax and enjoy the hotel's beautifully landscaped gardens, providing a tranquil escape from the city."
+          },
+          {
+            "tag": "Wellness",
+            "title": "Luxury Amenities and Services",
+            "description": "Experience top-notch services like a spa, fitness center, and complimentary Wi-Fi."
+          },
+          {
+            "tag": "Experience",
+            "title": "Close to Souk Madinat Jumeirah",
+            "description": "Explore the vibrant Souk Madinat Jumeirah, just a 10-minute stroll from the hotel."
+          },
+          {
+            "tag": "Location",
+            "title": "Beachfront Location",
+            "description": "This sprawling beachfront hotel is just a 2-minute walk from the beach."
+          },
+          {
+            "tag": "Experience",
+            "title": "Renovated and Refurbished",
+            "description": "Enjoy the hotel's recently renovated rooms, public spaces, and select restaurants."
+          },
+          {
+            "tag": "Recommendation",
+            "title": "Diverse Dining Options",
+            "description": "Indulge in over 10 restaurants and bars, including award-winning French and British cuisine."
+          },
+          {
+            "tag": "Experience",
+            "title": "On-site Breakfast and Cafe",
+            "description": "Start your day with a delicious on-site breakfast or grab a coffee at the hotel's cafe."
+          }
+        ],
+        "propertyAddress": "Jumeirah Beach Road, Umm Suqeim, 11416, Dubai, United Arab Emirates"
+      },
+      "images": [
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/e0/0e/87d734764df34c0e35df38c30926a9b8c26e980cc06794d9ca698ebabee6.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/d0/b2/e8de934befd3bdb3332890d01a3ca2fa935a6025f8b85a6fa36aece45e56.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/8a/f0/a757d34be757dab31ae7a388f4edb57350d25d26c88f4e05faa26f91b74c.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/c1/18/d2a2807d938ddbdd21556919af311edddbdb1158a9701598118b1f633cdd.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/1c/d1/aa8272a70f48991d8852822f4f705d9da875fcc01ca6e1440c6517928612.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/d6/30/8156f3578c7023961910318735592378aa7a50408725b96b76fa597fc215.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/4d/f6/74218ce8f2e1a40c8cbd34ca9977cb0703ded19e7665821b550fc9385e84.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/8c/61/c8babc72ac82f4785f0f8a92f62edbafca37ac12c71e564575858c56c69f.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/a7/c6/dfed1a405da5999a24a9e55545ad2c05d4a85a1672a131b490e47d13d484.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/c7/3c/931a96381e8476ed542841b66b3306dda10b0c4676711474e5f75ab21c81.jpeg",
+        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/partner-images/2e/26/893c85df5e4422a0948b213148f0e240f54470fd4d5da27792885a0d55b6.jpeg"
+      ],
+      "reviews": {
+        "otherSitesRatings": [
+          {
+            "rating": "9.0",
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,h_auto,q_auto,w_70/partnerlogos-s3/406"
+          },
+          {
+            "rating": "9.0",
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,h_auto,q_auto,w_70/partnerlogos-s3/3340"
+          },
+          {
+            "rating": "7.5",
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,h_auto,q_auto,w_70/partnerlogos-s3/1708"
+          }
+        ],
+        "reviewsList": [
+          {
+            "reviewTag": "Services",
+            "reviewDescription": "Experience top-notch services like a spa, fitness center, and complimentary Wi-Fi."
+          },
+          {
+            "reviewTag": "Location",
+            "reviewDescription": "Enjoy a private beach and complimentary unlimited access to Wild Wadi Waterpark™."
+          },
+          {
+            "reviewTag": "Facilities and amenities",
+            "reviewDescription": "Relax and refresh in one of the five swimming pools, perfect for a refreshing dip."
+          }
+        ]
+      },
+      "prices": {
+        "sites": [
+          {
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_1px_solid_transparent,c_pad,h_16,q_auto,w_16/partnerlogos-squared/3340",
+            "siteTitle": "Hotels.com•Featured",
+            "siteRooms": [
+              {
+                "roomTitle": "Deluxe Room (Ocean)",
+                "roomProperties": [],
+                "roomPrice": "$431"
+              },
+              {
+                "roomTitle": "Family Room (Ocean Deluxe)",
+                "roomProperties": [],
+                "roomPrice": "$481"
+              },
+              {
+                "roomTitle": "Deluxe Room (Ocean)",
+                "roomProperties": [],
+                "roomPrice": "$499"
+              },
+              {
+                "roomTitle": "Deluxe Room (Ocean)",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$505"
+              },
+              {
+                "roomTitle": "Deluxe Room, Balcony (Ocean)",
+                "roomProperties": [],
+                "roomPrice": "$508"
+              },
+              {
+                "roomTitle": "Family Room (Ocean Deluxe)",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$554"
+              }
+            ]
+          },
+          {
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_1px_solid_transparent,c_pad,h_16,q_auto,w_16/partnerlogos-squared/3022",
+            "siteTitle": "Jumeirah",
+            "siteRooms": [
+              {
+                "roomTitle": "Jumeirah Escapes Ocean Deluxe Room",
+                "roomProperties": [],
+                "roomPrice": "$431"
+              },
+              {
+                "roomTitle": "Jumeirah Escapes Ocean Family Deluxe Room",
+                "roomProperties": [],
+                "roomPrice": "$481"
+              },
+              {
+                "roomTitle": "Jumeirah Flexible Rate Ocean Deluxe Room",
+                "roomProperties": [],
+                "roomPrice": "$499"
+              },
+              {
+                "roomTitle": "Jumeirah Escapes With Breakfast Ocean Deluxe Room",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$505"
+              },
+              {
+                "roomTitle": "Jumeirah Escapes Ocean Deluxe Balcony Room",
+                "roomProperties": [],
+                "roomPrice": "$508"
+              },
+              {
+                "roomTitle": "Jumeirah Flexible Rate Ocean Family Deluxe Room",
+                "roomProperties": [],
+                "roomPrice": "$554"
+              }
+            ]
+          },
+          {
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_1px_solid_transparent,c_pad,h_16,q_auto,w_16/partnerlogos-squared/406",
+            "siteTitle": "Expedia",
+            "siteRooms": [
+              {
+                "roomTitle": "Deluxe Room (Ocean)",
+                "roomProperties": [],
+                "roomPrice": "$431"
+              },
+              {
+                "roomTitle": "Family Room (Ocean Deluxe)",
+                "roomProperties": [],
+                "roomPrice": "$481"
+              },
+              {
+                "roomTitle": "Deluxe Room (Ocean)",
+                "roomProperties": [],
+                "roomPrice": "$499"
+              },
+              {
+                "roomTitle": "Deluxe Room (Ocean)",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$505"
+              },
+              {
+                "roomTitle": "Deluxe Room, Balcony (Ocean)",
+                "roomProperties": [],
+                "roomPrice": "$508"
+              },
+              {
+                "roomTitle": "Family Room (Ocean Deluxe)",
+                "roomProperties": [],
+                "roomPrice": "$554"
+              }
+            ]
+          },
+          {
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_1px_solid_transparent,c_pad,h_16,q_auto,w_16/partnerlogos-squared/1816",
+            "siteTitle": "roomsXXL",
+            "siteRooms": [
+              {
+                "roomTitle": "Room Only Double Or Twin Room Deluxe",
+                "roomProperties": ["Pay at the property"],
+                "roomPrice": "$431"
+              },
+              {
+                "roomTitle": "Room Only Ocean Deluxe Room",
+                "roomProperties": [],
+                "roomPrice": "$447"
+              },
+              {
+                "roomTitle": "Room Only Family Room Deluxe - King Size Bed",
+                "roomProperties": ["Pay at the property"],
+                "roomPrice": "$481"
+              },
+              {
+                "roomTitle": "Room Only Double Or Twin Room Deluxe",
+                "roomProperties": [],
+                "roomPrice": "$493"
+              },
+              {
+                "roomTitle": "Room Only Double Superior Ocean View",
+                "roomProperties": [],
+                "roomPrice": "$498"
+              },
+              {
+                "roomTitle": "Bed And Breakfast Double Or Twin Room Deluxe",
+                "roomProperties": ["Breakfast included", "Pay at the property"],
+                "roomPrice": "$504"
+              }
+            ]
+          },
+          {
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_1px_solid_transparent,c_pad,h_16,q_auto,w_16/partnerlogos-squared/1912",
+            "siteTitle": "Stayforlong",
+            "siteRooms": [
+              {
+                "roomTitle": "Deluxe Room (Ocean) - Room Only",
+                "roomProperties": [],
+                "roomPrice": "$431"
+              },
+              {
+                "roomTitle": "Ocean Deluxe Room - Room Only",
+                "roomProperties": [],
+                "roomPrice": "$433"
+              },
+              {
+                "roomTitle": "Family Room (Ocean Deluxe) - Room Only",
+                "roomProperties": [],
+                "roomPrice": "$481"
+              },
+              {
+                "roomTitle": "Double Superior Ocean View - Room Only",
+                "roomProperties": [],
+                "roomPrice": "$483"
+              },
+              {
+                "roomTitle": "Deluxe Room (Ocean) - Bed And Breakfast",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$505"
+              },
+              {
+                "roomTitle": "Ocean Deluxe Room - Bed And Breakfast",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$507"
+              }
+            ]
+          },
+          {
+            "siteImg": "https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_1px_solid_transparent,c_pad,h_16,q_auto,w_16/partnerlogos-squared/626",
+            "siteTitle": "Booking.com",
+            "siteRooms": [
+              {
+                "roomTitle": "Check Booking Site For Details.",
+                "roomProperties": [],
+                "roomPrice": "$431"
+              },
+              {
+                "roomTitle": "Check Booking Site For Details.",
+                "roomProperties": ["Breakfast included"],
+                "roomPrice": "$505"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+
+Here are some extra properties I want to add in each item
+
+- id, A unique identifier for the property
+
+-popularChoice, this will be a boolean, if there are 100 properties 20% should have this set to true otherwise false
+
+- stayOption: if item.propertyType belongs to
+this array ["hotel","Resort","Serviced apartment","Ryokan"] set stayOption to "Hotels",
+this array ["Entire House / Apartment","Casa rural"] set stayOption to "Houses / Apartments"
+this array ["Bed & Breakfast","Guesthouse","Hostel","Motel", "Hostal", "Camping site", "Pousada"] set stayOption to "Budget stays"
+
+- location, this will be string, you have to set this according to your intelligence, here's how, first you have to analyze each item.extraDetails.info.propertyAddress and then select the suitable location from this array [
+  'Al Barsha Dubai', 'Al Garhoud', 'Al Mamzar Park', 'Al Muraqqabat',
+  'Al Rigga', 'Bur Dubai', 'Bur Dubai Cloth Souq', 'Burj Khalifa', 'Business Bay',
+  'Deira', 'Deira City Center Mall', 'Downtown Dubai', 'Dubai Autodrome', 'Dubai Creek',
+  'Dubai Festival City', 'Dubai Intl Airport', 'Dubai Intl Convention Centre',
+  'Dubai Intl Financial Centre', 'Dubai Marina', 'Dubai Museum', 'Dubai Silicon Oasis',
+  'Dubai World Cup', 'Dubai World Trade Centre', 'Dubai World Trade Centre (DWTC)',
+  'Dubailand', 'Gold Souk', 'Jebel Ali', 'Jebel Ali Palm', 'Jumeirah', 'Jumeirah Beach',
+  'Jumeirah Beach Park', 'Jumeirah Beach Residence', 'Jumeirah Emirates Towers',
+  'Jumeirah Mosque', 'Mall of the Emirates', 'Mercato Shopping Mall', 'Mushrif Park',
+  'Palm Jumeirah', 'Safa Park', 'Sharjah Intl Airport', 'Sheikh Saeed Al Maktoum House',
+  'Sheikh Zayed Road', 'Ski Dubai', 'Souk Madinat Jumeirah', 'The Dubai Fountain',
+  'The Dubai Mall', 'Wild Wadi Waterpark'
+]
+
+- stars, this will be a number from 1 - 5, randomly choose this value, you can also choose 1 and 5
+
+- payment, this will be an array containing at least one value, randomly choose values from this array ["Free cancellation", "Pay at the property"], you can choose both of these values also
+
+- mealOptions: you have to choose values from this array ["Breakfast included", "All inclusive", "Full board", "Half board"], you have to use your intelligence to set values like first you have to analyze item.extraDetails.prices.sites here you have to map sites and check for site.siteRooms and then map siteRooms and check for siteRoom.roomProperties
+
+
+- amenities: choose at least 7 or 8 amenities from this array ["Cots","Gym","Hot tub","Wi-Fi","Airport shuttle","Spa","Pool","Ocean view","Water park","Pet-friendly","Air conditioned","Restaurant","Kitchen","EV charging","Washer & dryer","Casino","Outdoor space","Parking","Golf course","Bar","24/7 reception","Sauna","Sun umbrellas","Adults only","Fridge"], you have to use your intelligence also first analyze the whole item's text and then select amenities
+
+
+- accessibility, this will be an array, choose at least 3 or 4 from this array "accessibility": [
+      "Lift",
+      "Step-free path to entrance",
+      "Roll-in shower",
+      "In-room accessibility",
+      "Service animals allowed",
+      "Accessible bathroom",
+      "Sign language-capabel staff",
+      "Wheelchair-accessible parking"
+    ], you have to use your intelligence also first analyze the whole item's text and then select
+
+- familyFriendly, this will be an array, choose at least 2 or 3 from this array
+[
+      "Cot",
+      "Childcare",
+      "Organized activities for kids",
+      "Playground",
+      "Kids' club",
+      "Kids' pool"
+    ], you have to use your intelligence also first analyze the whole item's text and then select
+
+- activities, this will be an array, choose at least 3 or 5 from this array
+[
+      "Arcade/Video games",
+      "Horse riding",
+      "Golf course",
+      "Diving",
+      "Yoga",
+      "Hiking trail",
+      "Surfing",
+      "Sailing"
+    ], you have to use your intelligence also first analyze the whole item's text and then select
+
+
+- cityCenterCoordinates: this will be an array of two numbers, first check the  item.location which you have set and then set this property, you can use google map or any other resource but the coordinates have to be realistic like [25.0777, 55.1344]
+
+- propertyCoordinates: this will be an array of two numbers, first check the item.title , you can use google map or any other resource but the coordinates have to be realistic like [25.0777, 55.1344]
+
+
+Centrally located in the heart of Dubai's business and leisure district, and within an easy walk to Mall of the Emirates, Flora Al Barsha Hotel At The Mall features an on-site restaurant and offers complimentary Wi-Fi throughout. Luxurious modern and spacious guest rooms feature contemporary furnishings with king or twin beds, carpeted flooring with prayer mats, and en suite bathroom facilities. Additional amenities, amongst others, include an electronic safe and work desk. The 24-hour front desk and concierge service provides a currency exchange and complimentary shuttle to Kite Beach, while guests can expect to be pampered in the on-site Spa. Start the day off with an international buffet breakfast at Basil and Spice, where a la carte options are available throughout the daylue . The 24-hour Jamaica BCoffee shop offers a variety of delicious pastries and sandwiches. Enjoy a fun-filled day at Wild Wadi Water Park, 12 minutes away by car, or walk to Ski Dubai, in just seven minutes from Flora Al Barsha Hotel At The Mall.

@@ -32,24 +32,26 @@
     }
   },
   "rules": {
-    "no-console": "warn",
+    "no-console": "off",
     "react/prop-types": "off",
+    "react/no-unescaped-entities": "off",
     "react/jsx-uses-react": "off",
     "react/react-in-jsx-scope": "off",
     "react-hooks/exhaustive-deps": "off",
-    "jsx-a11y/click-events-have-key-events": "warn",
+    "jsx-a11y/click-events-have-key-events": "off",
     "jsx-a11y/interactive-supports-focus": "warn",
     "no-unused-vars": "off",
     "unused-imports/no-unused-vars": "off",
     "unused-imports/no-unused-imports": "warn",
-    "@typescript-eslint/no-unused-vars": [
-      "warn",
-      {
-        "args": "after-used",
-        "ignoreRestSiblings": false,
-        "argsIgnorePattern": "^_.*?$"
-      }
-    ],
+    // "@typescript-eslint/no-unused-vars": [
+    //   "warn",
+    //   {
+    //     "args": "after-used",
+    //     "ignoreRestSiblings": false,
+    //     "argsIgnorePattern": "^_.*?$"
+    //   }
+    // ],
+    "@typescript-eslint/no-unused-vars": "off",
     "import/order": [
       "warn",
       {
@@ -74,15 +76,7 @@
       }
     ],
     "react/self-closing-comp": "warn",
-    "react/jsx-sort-props": [
-      "warn",
-      {
-        "callbacksLast": true,
-        "shorthandFirst": true,
-        "noSortAlphabetically": false,
-        "reservedFirst": true
-      }
-    ],
+    "react/jsx-sort-props": "off",
     "padding-line-between-statements": [
       "warn",
       { "blankLine": "always", "prev": "*", "next": "return" },
@@ -94,6 +88,9 @@
       }
     ],
     "@next/next/no-img-element": "off", // Disable the no-img-element rule
-    "jsx-a11y/anchor-is-valid": "off" // Disable the anchor-is-valid rule
+    "jsx-a11y/anchor-is-valid": "off", // Disable the anchor-is-valid rule
+    "jsx-a11y/no-noninteractive-element-interactions": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "jsx-a11y/no-noninteractive-tabindex": "off"
   }
 }

@@ -3,8 +3,11 @@ import { Metadata } from 'next';
 import clsx from 'clsx';
 
 import { Providers } from './providers';
+import SuspenseWrapper from './components/SuspenseWrapper';
 
 import { siteConfig } from '@/config/site';
+import { fontSouthwestSans, fontFairWater } from '@/config/fonts';
+import { FlightProvider } from '@/context/FlightContext';
 
 export const metadata: Metadata = {
   title: {
@@ -13,7 +16,7 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   icons: {
-    // icon: '/images/logo/trivago-favicon.ico',
+    icon: '/favicon/southWestFavicon.png',
   },
 };
 
@@ -25,11 +28,24 @@ export default function RootLayout({
   return (
     <html suppressHydrationWarning lang="en">
       <head />
-      <body className={clsx('min-h-screen bg-background antialiased')}>
+      <body
+        className={clsx([
+          'min-h-screen',
+          // 'bg-white',
+          'font-fairWater',
+          'antialiased',
+          // fontArial.variable,
+          fontSouthwestSans.variable,
+          fontFairWater.variable,
+        ])}
+      >
         <Providers themeProps={{ attribute: 'class', defaultTheme: 'light' }}>
-          <main className="container mx-auto max-w-7xl flex-grow px-6 py-2">
-            {children}
-          </main>
+          <SuspenseWrapper>
+            {/* Change the context provider name according to the project */}
+            <FlightProvider>
+              <main>{children}</main>
+            </FlightProvider>
+          </SuspenseWrapper>
         </Providers>
       </body>
     </html>

